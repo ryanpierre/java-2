@@ -17,6 +17,7 @@
       - Do they compile to Bytecode ? Run directly ?
       - Interactive REPL ? Technically ...
       - Compiler errors
+      - Can be updated on the fly without recompiling.
 - Statically Typed vs Dynamically Typed ? *(Remember: Lisps are an example of compiled, dynamically typed languages !)*
 
         Important Points:
