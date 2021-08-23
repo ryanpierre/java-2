@@ -3,9 +3,9 @@
 - What do we know about Java ?
 
         Important points:
-        - ggg
-        - zzz
-        - bbb
+        - Compiled
+        - Statically Typed
+        - JRE, JDK, JVM ?
 - What makes Java so popular ?
 
       Important points:
@@ -14,17 +14,17 @@
 - Compiled vs. Interpreted languages ?
 
         Important Points:
-      - ggg
-      - zzz
-      - bbb
+      - Do they compile to Bytecode ? Run directly ?
+      - Interactive REPL ? Technically ...
+      - Compiler errors
 - Statically Typed vs Dynamically Typed ? *(Remember: Lisps are an example of compiled, dynamically typed languages !)*
 
         Important Points:
-      - ggg
-      - zzz
-      - bbb
-- Demonstrate installing Java and do a command line Hello World
+      - Ruby, Python, Javascript
+      - Java, C++, TypeScript
+      - Lisps
 - Demonstrate installing IntelliJ and starting a new Gradle project. Create Hello World again.
+- Demonstrate installing Java and do a command line Hello World
 - Talk about primitive java types a bit - char, string, int, double, float, 
 
 ![typechart](typechart.png)
